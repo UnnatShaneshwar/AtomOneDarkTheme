@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Atom One Dark
+Comment=A one dark colored theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Atom One Dark
+GtkTheme=Atom One Dark
+IconTheme=Atom One Dark
+MetacityTheme=Atom One Dark
